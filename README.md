@@ -19,11 +19,14 @@ des infrastructures cloud et de la sécurité, inspirés d’environnements rée
 - ☁️ **Cloud AWS**
   
   - Mini-projet 1 : `Web Hosting (S3 • IAM)` [View PDF](Aws/Hébergement_du_site_vitrine_de_lentreprise_French_Bakery_sur_aws.pdf)
-  - Mini projet 2 : `Architecture Load_Balancer Classique MultiAZ avec trois_Serveurs Web EC2` [View PDF](Aws/Architecture_Load_Balancer_Classique_MultiAZ_Trois_Serveurs_Web.pdf)
+  - Mini-projet 2 : `Architecture Load_Balancer Classique MultiAZ avec trois_Serveurs Web EC2` [View PDF](Aws/Architecture_Load_Balancer_Classique_MultiAZ_Trois_Serveurs_Web.pdf)
+  - Mini-projet 3 : `Amazon EFS sur EC2` [View PDF]()
+  - Mini-projet 4 : `Base de données MySQL avec Amazon Lightsail` [View PDF]()
+  - Mini-projet 5 : `Distribution de contenu avec Amazon CloudFront` [View PDF]()
 
 - 🌐 **Réseaux & sécurité**
   
-  - Mini-projet 1 : *À compléter*  
+  - Mini-projet 1 : *À venir*  
 
 - 🪟   **Exchange server**
   
