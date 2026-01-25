@@ -18,7 +18,8 @@ des infrastructures cloud et de la sécurité, inspirés d’environnements rée
 
 - ☁️ **Cloud AWS**
   
-  - Mini-projet 1 : `Web Hosting (S3 • IAM)` [View PDF](Aws/Hébergement_du_site_vitrine_de_lentreprise_French_Bakery_sur_aws.pdf)  
+  - Mini-projet 1 : `Web Hosting (S3 • IAM)` [View PDF](Aws/Hébergement_du_site_vitrine_de_lentreprise_French_Bakery_sur_aws.pdf)
+  - Mini projet 2 : `Architecture Load_Balancer Classique MultiAZ avec trois_Serveurs Web` [View PDF] ()
 
 - 🌐 **Réseaux & sécurité**
   
