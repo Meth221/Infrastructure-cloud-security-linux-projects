@@ -7,24 +7,18 @@ des infrastructures cloud et de la sécurité, inspirés d’environnements rée
 
 - 🪟 **Windows Server & Active Directory**
    
-  - Mini-projet 1 : `WindowsServer_Administration_AD_DC_ServerCore_IIS_RSAT`  
-    [View PDF](Windows_Server&Active_Directory/WindowsServer_Administration_AD_DC_ServerCore_IIS_RSAT.pdf)  
-  - Mini-projet 2 : `Implementation_Foret_AD_MultiDomaine_AmethTech`  
-    [View PDF](Windows_Server&Active_Directory/Implementation_Foret_AD_MultiDomaine_AmethTech_Trusts_Raccourci.pdf)
+  - Mini-projet 1 : `WindowsServer_Administration_AD_DC_ServerCore_IIS_RSAT` [View PDF](Windows_Server&Active_Directory/WindowsServer_Administration_AD_DC_ServerCore_IIS_RSAT.pdf)  
+  - Mini-projet 2 : `Implementation_Foret_AD_MultiDomaine_AmethTech` [View PDF](Windows_Server&Active_Directory/Implementation_Foret_AD_MultiDomaine_AmethTech_Trusts_Raccourci.pdf)
 
 - 🐧 **Linux (administration & sécurité)**
   
-  - Mini-projet 1 : ` Déploiement_dun_serveur_DNS-DHCP_avec_Bind.` 
-    [View PDF](Linux/Déploiement_dun_serveur_DNS-DHCP_avec_Bind.pdf)
-  - Mini-projet 2 : ` Déploiement_dun_serveur_PureFtpd_avec_chrootage_sous_Centos_9` 
-    [View PDF](Linux/Déploiement_dun_serveur_PureFtpd_avec_chrootage_sous_Centos_9.pdf)
-  - Mini projet 3 : ` Mise_en_place_dun_serveur_NFS_hautement_disponible_avec_la_technologie_RAID` 
-    [View PDF](Linux/Mise_en_place_dun_serveur_NFS_hautement_disponible_avec_la_technologie_RAID.pdf)
+  - Mini-projet 1 : ` Déploiement_dun_serveur_DNS-DHCP_avec_Bind.` [View PDF](Linux/Déploiement_dun_serveur_DNS-DHCP_avec_Bind.pdf)
+  - Mini-projet 2 : ` Déploiement_dun_serveur_PureFtpd_avec_chrootage_sous_Centos_9` [View PDF](Linux/Déploiement_dun_serveur_PureFtpd_avec_chrootage_sous_Centos_9.pdf)
+  - Mini projet 3 : ` Mise_en_place_dun_serveur_NFS_hautement_disponible_avec_la_technologie_RAID` [View PDF](Linux/Mise_en_place_dun_serveur_NFS_hautement_disponible_avec_la_technologie_RAID.pdf)
 
 - ☁️ **Cloud AWS**
   
-  - Mini-projet 1 : `Web Hosting (S3 • IAM)`  
-    [View PDF](Aws/Hébergement_du_site_vitrine_de_lentreprise_French_Bakery_sur_aws.pdf)  
+  - Mini-projet 1 : `Web Hosting (S3 • IAM)` [View PDF](Aws/Hébergement_du_site_vitrine_de_lentreprise_French_Bakery_sur_aws.pdf)  
 
 - 🌐 **Réseaux & sécurité**
   
