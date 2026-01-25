@@ -24,10 +24,11 @@ des infrastructures cloud et de la sécurité, inspirés d’environnements rée
   - Mini-projet 4 : `Base de données MySQL avec Amazon Lightsail` [View PDF](Aws/Déploiement_et_configuration_d_une_base_de_données_MySQL_avec_Amazon_Lightsail.pdf)
   - Mini-projet 5 : `Distribution de contenu avec Amazon CloudFront` [View PDF](Aws/Diffusions_de_contenu_avec_Amazon_CloudFront.pdf)
 
+- 🪟   **Exchange server**
+  
+  - Mini-projet 1 : `ExchangeServer_Create_OU_Members_Mailboxes_DB_PublicFolder_MeetingRooms` [View PDF](ExchangeServer/ExchangeServer_Create_OU_Members_Mailboxes_DB_PublicFolder_MeetingRooms.pdf)
+
 - 🌐 **Réseaux & sécurité**
   
   - Mini-projet 1 : *À venir*  
 
-- 🪟   **Exchange server**
-  
-  - Mini-projet 1 : `ExchangeServer_Create_OU_Members_Mailboxes_DB_PublicFolder_MeetingRooms` [View PDF](ExchangeServer/ExchangeServer_Create_OU_Members_Mailboxes_DB_PublicFolder_MeetingRooms.pdf)
