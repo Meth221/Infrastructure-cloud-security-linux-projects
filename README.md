@@ -19,9 +19,15 @@ This repository contains hands-on projects demonstrating my skills in:
     déploiement d’IIS et administration centralisée via RSAT, incluant des relations d’approbation de type raccourci.
 
     [View PDF](WindowsServer_Administration_AD_DC_ServerCore_IIS_RSAT.docx)
-2.
 
-Implémentation_d'une_Forêt_Multi-domaine_AmethTech_avec Relations_d'Approbation_de_Type_Raccourci
+2.Implementation_Foret_AD_MultiDomaine_AmethTech
+
+   Mise en place d’une forêt Active Directory multi-domaines pour l’environnement AmethTech, incluant la configuration de relations d’approbation (trusts)
+   de type raccourci afin d’optimiser l’authentification et l’accès aux ressources.
+
+   [View PDF](Implémentation_d'une_Forêt_Multi-domaine_AmethTech_avec_Relations_d'Approbation_de_Type_Raccourci.docx)
+
+
 ### 🔹 Cloud Infrastructure (AWS)
 1. web hosting : S3,IAM  
 [View PDF](Aws/Hébergement_du_site_vitrine_de_lentreprise_French_Bakery_sur_aws.pdf)
