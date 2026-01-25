@@ -26,4 +26,4 @@ des infrastructures cloud et de la sécurité, inspirés d’environnements rée
 
 - 🪟   **Exchange server**
   
-  - Mini-projet 1 : `ExchangeServer_Create_OU_Members_Mailboxes_DB_PublicFolder_MeetingRooms` [View PDF](ExchangeServer/Create_OU_Members_Mailboxes_DB_PublicFolder_MeetingRooms.pdf.pdf)
+  - Mini-projet 1 : `ExchangeServer_Create_OU_Members_Mailboxes_DB_PublicFolder_MeetingRooms` [View PDF](ExchangeServer/Create_OU_Members_Mailboxes_DB_PublicFolder_MeetingRooms.pdf)
