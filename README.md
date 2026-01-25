@@ -14,11 +14,12 @@ This repository contains hands-on projects demonstrating my skills in:
 
 1. WindowsServer_Administration_AD_DC_ServerCore_IIS_RSAT 
     Description:
+   
     Implémentation d’une forêt Active Directory multi-domaines (AmethTech), avec contrôleurs de domaine sous Server Core, 
     déploiement d’IIS et administration centralisée via RSAT, incluant des relations d’approbation de type raccourci.
-    
 
-
+    [View PDF](WindowsServer_Administration_AD_DC_ServerCore_IIS_RSAT.docx)
+2.
 
 Implémentation_d'une_Forêt_Multi-domaine_AmethTech_avec Relations_d'Approbation_de_Type_Raccourci
 ### 🔹 Cloud Infrastructure (AWS)
