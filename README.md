@@ -26,4 +26,4 @@ des infrastructures cloud et de la sécurité, inspirés d’environnements rée
 
 - 🪟   **Exchange server**
   
-  - Mini-projet 1 : `ExchangeServer_Create_OU_Members_Mailboxes_DB_PublicFolder_MeetingRooms` [View PDF](Aws/Hébergement_du_site_vitrine_de_lentreprise_French_Bakery_sur_aws.pdf)  
+  - Mini-projet 1 : `ExchangeServer_Create_OU_Members_Mailboxes_DB_PublicFolder_MeetingRooms` [View PDF](ExchangeServer/ExchangeServer_Create_OU_Members_Mailboxes_DB_PublicFolder_MeetingRooms.pdf.pdf)  
