@@ -25,7 +25,7 @@ This repository contains hands-on projects demonstrating my skills in:
    Mise en place d’une forêt Active Directory multi-domaines pour l’environnement AmethTech, incluant la configuration de relations d’approbation (trusts)
    de type raccourci afin d’optimiser l’authentification et l’accès aux ressources.
 
-   [View PDF](Implémentation_d'une_Forêt_Multi-domaine_AmethTech_avec_Relations_d'Approbation_de_Type_Raccourci.pdf)
+   [View PDF](Implementation_Foret_AD_MultiDomaine_AmethTech_Trusts_Raccourci.pdf.pdf)
 
 
 ### 🔹 Cloud Infrastructure (AWS)
