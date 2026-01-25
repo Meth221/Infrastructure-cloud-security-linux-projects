@@ -14,7 +14,12 @@ des infrastructures cloud et de la sécurité, inspirés d’environnements rée
 
 - 🐧 **Linux (administration & sécurité)**
   
-  - Mini-projet 1 : *À compléter*  
+  - Mini-projet 1 : ` Déploiement_dun_serveur_DNS-DHCP_avec_Bind.` 
+    [View PDF](Linux/Déploiement_dun_serveur_DNS-DHCP_avec_Bind.pdf)
+  - Mini-projet 2 : ` Déploiement_dun_serveur_PureFtpd_avec_chrootage_sous_Centos_9` 
+    [View PDF](Linux/Déploiement_dun_serveur_PureFtpd_avec_chrootage_sous_Centos_9.pdf)
+  - Mini projet 3 : ` Mise_en_place_dun_serveur_NFS_hautement_disponible_avec_la_technologie_RAID` 
+    [View PDF](Linux/Mise_en_place_dun_serveur_NFS_hautement_disponible_avec_la_technologie_RAID.pdf)
 
 - ☁️ **Cloud AWS**
   
