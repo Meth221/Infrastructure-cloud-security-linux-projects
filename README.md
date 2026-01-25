@@ -10,6 +10,19 @@ This repository contains hands-on projects demonstrating my skills in:
 - Cloud Infrastructure (AWS)
 - Networking & Security
 
-### 🔹 AWS – S3 web hosting
-- S3,IAM  
+### 🔹 Windows Server & Active Directory
+
+1. WindowsServer_Administration_AD_DC_ServerCore_IIS_RSAT 
+    Description:
+    Implémentation d’une forêt Active Directory multi-domaines (AmethTech), avec contrôleurs de domaine sous Server Core, 
+    déploiement d’IIS et administration centralisée via RSAT, incluant des relations d’approbation de type raccourci.
+    
+
+
+
+Implémentation_d'une_Forêt_Multi-domaine_AmethTech_avec Relations_d'Approbation_de_Type_Raccourci
+### 🔹 Cloud Infrastructure (AWS)
+1. web hosting : S3,IAM  
 [View PDF](Aws/Hébergement_du_site_vitrine_de_lentreprise_French_Bakery_sur_aws.pdf)
+
+### 🔹 Linux System Administration & Security
