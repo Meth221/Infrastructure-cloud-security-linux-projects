@@ -8,7 +8,7 @@ des infrastructures cloud et de la sécurité, inspirés d’environnements rée
 - 🪟 **Windows Server & Active Directory**
    
   - Mini-projet 1 : `WindowsServer_Administration_AD_DC_ServerCore_IIS_RSAT` [View PDF](Windows_Server&Active_Directory/WindowsServer_Administration_AD_DC_ServerCore_IIS_RSAT.pdf)  
-  - Mini-projet 2 : `Implementation_Foret_AD_MultiDomaine_AmethTech` [View PDF](Windows_Server&Active_Directory/Implementation_Foret_AD_MultiDomaine_AmethTech_Trusts_Raccourci.pdf)
+  - Mini-projet 2 : `Implementation_Foret_AD_MultiDomaine_AmethTech` [View PDF](Windows_Server&Active_Directory/Implementation_Foret_AD_MultiDomaine_AmethTech_Trusts_Raccourci.pdf.pdf)
 
 - 🐧 **Linux (administration & sécurité)**
   
